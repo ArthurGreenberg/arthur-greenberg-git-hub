@@ -1,0 +1,14 @@
+{
+  "name": "adpScraper",
+  "version": "0.0.1",
+  "description": "Scrapes paystub info from ADP given username and password.",
+  "main": "adpScraper.js",
+  "author": "Arthur Greenberg",
+  "dependencies" : {
+    "prompt-sync": "latest",
+    "request"    : "latest",
+    "cheerio"    : "latest",
+    "fs"         : "latest",
+    "html-to-pdf": "latest"
+  }
+}
